@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Build Login Page",
+    "description": "Create responsive login UI for application",
+    "status": "TODO",
+    "dueDate": "2025-02-01",
+    "priority": "HIGH",
+    "employeeId": 1
+  },
+  {
+    "id": 2,
+    "title": "Prepare Sprint Report",
+    "description": "Weekly report for sprint progress",
+    "status": "IN_PROGRESS",
+    "dueDate": "2025-02-03",
+    "priority": "MEDIUM",
+    "employeeId": 2
+  },
+  {
+    "id": 3,
+    "title": "Fix Login Bug #42",
+    "description": "Resolve user authentication issue",
+    "status": "TODO",
+    "dueDate": "2025-02-05",
+    "priority": "HIGH",
+    "employeeId": 1
+  }
+]
